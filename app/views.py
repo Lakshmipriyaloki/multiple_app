@@ -4,4 +4,4 @@ from django.http import HttpResponse
 def Sagar(request):
     return HttpResponse('Brother from another mother')
 def Anil(request):
-    return HttpResponse('call me senior')
+    return HttpResponse('calls me senior')
